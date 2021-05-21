@@ -1,4 +1,4 @@
-laptop_model {
+laptop_model = {
   'make' => 'Apple'
   'model' => 'MacBook Pro'
   'number_of_keys' => 65
